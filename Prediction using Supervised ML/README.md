@@ -6,7 +6,7 @@
 - You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 - Here is the dataset :
-<a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/student_scores.csv>Dataset.csv</a><br><br>
 > Solution:
 <a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
 
