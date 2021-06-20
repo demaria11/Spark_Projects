@@ -17,7 +17,7 @@ ____
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 
 > Here is the dataset :
-<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/student_scores.csv">Dataset.csv</a><br>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/Student_scores.csv">Dataset.csv</a><br>
 
 > Solution:
 <a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/Task_01.ipynb"> Prediction using Supervised ML</a>
