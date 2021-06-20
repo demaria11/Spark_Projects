@@ -1,4 +1,16 @@
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/><br>
+<h1 align="left">Hi <img src="https://github.com/demaria11/Spark_Projects/blob/main/Hi.gif" width="35px">, I am Vedanti & you're Welcome here !!! </h1>
+
+# Author : Vedanti Ekre
+
+# Email: vedantiekre@gmail.com
+
+## Task 4 : Exploratory Data Analysis
+___
+## GRIP @ The Sparks Foundation
+____
+# Role : Data Science and Business Analytics [Batch May-2021]
+
 
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ <br>
