@@ -1,4 +1,5 @@
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" /><br>
+<h1 align="left">Hi <img src="https://github.com/demaria11/Spark_Projects/blob/main/Hi.gif" width="35px">, I am Vedanti & you're Welcome here !!! </h1>
 
 # Author : Vedanti Ekre
 
