@@ -5,7 +5,7 @@
 
 # Email: vedantiekre@gmail.com
 
-## Task 1 : Prediction using Unsupervised Machine Learning
+## Task 2 : Prediction using Unsupervised Machine Learning
 ___
 ## GRIP @ The Sparks Foundation
 ____
