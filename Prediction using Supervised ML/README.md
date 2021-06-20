@@ -20,4 +20,4 @@ ____
 <a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/student_scores%20.csv">Dataset.csv</a><br>
 
 > Solution:
-<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/Task_01.ipynb"> Prediction using Supervised ML</a>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Supervised%20ML/Task_01.ipynb"> Prediction using Supervised ML</a>
