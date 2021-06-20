@@ -183,7 +183,7 @@ basic as well as advanced charts <br>
 
 [youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
 [gmail]: mailto:vedantiekre@gmail.com
-[linkedin]:www.linkedin.com/in/vedanti-ekre/
+[linkedin]:https://www.linkedin.com/in/vedanti-ekre/
 [github]: https://github.com/vedanti-github/
 
 
