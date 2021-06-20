@@ -17,7 +17,7 @@ ____
 predict the right class accordingly. <br>
 - Use R or Python or perform this task<br>
 > Here is the dataset :
-<a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br>
 
 > Solution:
 <a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
