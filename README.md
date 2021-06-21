@@ -3,7 +3,7 @@
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 [![](https://img.shields.io/badge/Author-DeMaria-green.svg)](https://github.com/demaria11)<br>
-[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcom_here-brightgreen.svg?style=flat&logo=github)](https://demaria11)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/License/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/demaria11.svg?style=plastic)](https://github.com/demaria11)[![GitHub issues](https://img.shields.io/github/issues/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/issues) [![GitHub forks](https://img.shields.io/github/forks/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/stargazers)
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcom_here-brightgreen.svg?style=flat&logo=github)](https://demaria11)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/demaria11/Spark_Projects.svg?style=plastic)](https://github.com/demaria11/Spark_Projects)[![](https://img.shields.io/github/languages/code-size/demaria11/Spark_Projects.svg?style=plastic)](https://github.com/demaria11/Spark_Projects)[![](https://img.shields.io/github/languages/top/demaria11/Spark_Projects.svg?style=plastic)](https://github.com/demaria11/Spark_Projects)[![](https://img.shields.io/github/Follow/demaria11.svg?style=plastic)](https://github.com/demaria11)[![GitHub issues](https://img.shields.io/github/issues/demaria11/Spark_Projects.svg)](https://github.com/demaria11/Spark_Projects/issues) [![GitHub forks](https://img.shields.io/github/forks/demaria11/Spark_Projects.svg)](https://github.com/demaria11/Spark_Projects/network) [![GitHub stars](https://img.shields.io/github/stars/demaria11/Spark_Projects.svg)](https://github.com/demaria11/Spark_Projects/stargazers)
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/demaria11)
 <br><br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
@@ -32,9 +32,9 @@
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
 
 > Demo:
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
@@ -51,9 +51,9 @@ make more profit.<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
 > Demo:
 <a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
@@ -68,9 +68,9 @@ make more profit.<br>
 predict the right class accordingly. <br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br><br>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
 > Demo:
 <a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
@@ -86,9 +86,9 @@ predict the right class accordingly. <br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a><br>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a>
 
 > Demo:
 <a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a>
@@ -106,7 +106,7 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
 
 > Demo:
 <a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
@@ -125,7 +125,7 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://bit.ly/34SRn3b">Dataset.csv</a><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 > Demo:
 <a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
@@ -148,7 +148,7 @@ while not changing the objective of the task.<br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 > Demo:
 <a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
@@ -167,7 +167,7 @@ basic as well as advanced charts <br>
 
   - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi <br>  
 > Solution:
-<a href="https://github.com/demaria11/THE-SPARKS-FOUNDATION/blob/master/Timeline%20Analysis%20%20Covid-19/COVID19.ipynb">Timeline Analysis : Covid-19 </a>
+<a href="https://github.com/demaria11/Spark_Projects/blob/master/Timeline%20Analysis%20%20Covid-19/COVID19.ipynb">Timeline Analysis : Covid-19 </a>
 
 > Demo:
 <a href="">Timeline Analysis : Covid-19</a>
@@ -183,7 +183,7 @@ basic as well as advanced charts <br>
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
+[youtube]: https://www.youtube.com
 [gmail]: mailto:devesh6571@gmail.com
 [linkedin]: https://www.linkedin.com/in//
 [github]: https://github.com/demaria11/
