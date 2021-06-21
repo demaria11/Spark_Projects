@@ -1,6 +1,3 @@
-> Demo:
-<a href="https://youtube.com">Prediction using Unsupervised ML</a>
-
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
