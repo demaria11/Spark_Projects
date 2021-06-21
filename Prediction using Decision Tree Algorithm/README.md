@@ -1,4 +1,4 @@
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Intermediate-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br> 
 > Problem statement : 
 > <a href=https://github.com/demaria11/Spark_Projects/tree/main/Prediction%20using%20Supervised%20ML>Here</a><br><br>
