@@ -71,8 +71,6 @@ predict the right class accordingly. <br>
 > Solution:
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
-> Demo:
-<a href="https://www.youtube.com">Prediction using Decision Tree Algorithm</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -108,7 +106,7 @@ predict the right class accordingly. <br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
 
 > Demo:
-<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
+<a href="https://youtube.com">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -127,7 +125,7 @@ predict the right class accordingly. <br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 > Demo:
-<a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
+<a href="https://youtube.com">Exploratory Data Analysis - Sports</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -150,7 +148,7 @@ while not changing the objective of the task.<br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 > Demo:
-<a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
+<a href="https://youtube.com">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
