@@ -37,7 +37,7 @@ represent it visually.<br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
 
 > Demo:
-<a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
+<a href="https://youtube.com">Prediction using Unsupervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -56,7 +56,7 @@ make more profit.<br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
 > Demo:
-<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
+<a href="https://youtube.com">Exploratory Data Analysis-Retail</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -73,7 +73,7 @@ predict the right class accordingly. <br>
 <a href="https://github.com/demaria11/Spark_Projects/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
 > Demo:
-<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
+<a href="https://www.youtube.com">Prediction using Decision Tree Algorithm</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
