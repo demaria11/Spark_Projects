@@ -183,7 +183,7 @@ basic as well as advanced charts <br>
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
+[youtube]: https://www.youtube.com
 [gmail]: mailto:devesh6571@gmail.com
 [linkedin]: https://www.linkedin.com/in//
 [github]: https://github.com/demaria11/
